@@ -68,6 +68,7 @@ empOne.getSchedule();
 
 const empTwo = {...empOne, name: "Nick"}
 
+console.log(empTwo)
 // empTwo.getSchedule();
 
 // empTwo.getSchedule();
